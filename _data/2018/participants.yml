@@ -130,4 +130,8 @@
  
 - name: Ieke de Vries
   image: /assets/images/ieke.jpg
-  bio: Ieke de Vries is pursuing a PhD in Criminology and Justice Policy at Northeastern University. Her current research aims to address the legitimate contours of crime by building and analyzing novel, digitized data sets utilizing computational methods. She has collaborated with federal, state and local agencies in the U.S. and gained research and policy experience while researching crime in several other countries including the Netherlands where she worked for the Dutch Rapporteur on Trafficking in Human Beings. 
+  bio: Ieke de Vries is pursuing a PhD in Criminology and Justice Policy at Northeastern University. Her current research aims to address the legitimate contours of crime by building and analyzing novel, digitized data sets utilizing computational methods. She has collaborated with federal, state and local agencies in the U.S. and gained research and policy experience while researching crime in several other countries including the Netherlands where she worked for the Dutch Rapporteur on Trafficking in Human Beings.
+  
+- name: Polina Rozenshtein
+  image: /assets/images/rozenshtein.jpg
+  bio: Polina Rozenshtein is a last-year PhD student in Data Mining group of Aalto University. She received her MSc in Machine Learning and Data Mining from Aalto University in 2014. Her research interests include dynamic graph mining and social-networks analysis.
